@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.0bbd1e7a.css",
+    "main.js": "/memory-card/static/js/main.4dee2e2d.js",
+    "static/media/sprotobama.jpeg": "/memory-card/static/media/sprotobama.206242f7441eb208b6e8.jpeg",
+    "static/media/bitcoinobama.jpeg": "/memory-card/static/media/bitcoinobama.6173c40b4e82a07d2647.jpeg",
+    "static/media/hpos10i.jpeg": "/memory-card/static/media/hpos10i.d51fe4c566f47549709c.jpeg",
+    "static/media/sproto.jpeg": "/memory-card/static/media/sproto.5351540215d0dcfc18c2.jpeg",
+    "index.html": "/memory-card/index.html",
+    "main.0bbd1e7a.css.map": "/memory-card/static/css/main.0bbd1e7a.css.map",
+    "main.4dee2e2d.js.map": "/memory-card/static/js/main.4dee2e2d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bbd1e7a.css",
+    "static/js/main.4dee2e2d.js"
+  ]
+}
